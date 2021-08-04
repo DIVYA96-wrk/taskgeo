@@ -1,0 +1,17 @@
+nav{
+    
+   
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+a{
+    margin-top: 15px;
+    color:white;
+    font-size: 20px;
+}
+.row{
+    height:60px;
+    background:rgb(0, 0, 0);
+    opacity:0.8;
+}
